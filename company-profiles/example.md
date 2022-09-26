@@ -1,52 +1,54 @@
-# Example Company
+# Zemoso Technologies
 
 ## Company blurb
 
-Insert a little bit about your company here.
+We offer zero-to-one lean acceleration and innovation-as-a-service to large enterprises and early-stage startups, helping them incubate new product initiatives. 
+
+Our product design and engineering studios take ideas from napkin to product-market fit, rapidly and cost effectively. We work with experienced entrepreneurs and innovation leaders to offset risk and fast-track launches. As a new product incubation partner and a launch accelerator, we double your chances of success. 
 
 ## Company size
 
-An approximate size of your company. 0-20, 20-50, 50-100, 100-200, etc.
+201-500
 
 ## Remote status
 
-Explain a bit about your remote culture here.
+(Remote/Hybrid)
 
 ## Region
 
-Where are remote employees accepted? List either 1 country (eg **USA**), 1 region (eg **North America**), a list of multiple regions, or **Worldwide**.
+USA, Canada, India, UK
 
-See the [UN Statistical Division's country codes](https://unstats.un.org/unsd/methodology/m49/) for a list of accepted countries.
-
-The list of accepted regions is based on the UN Statistical Division's region codes, on the same page:
-
-* Africa
-* Asia
-* Caribbean
-* Europe
-* Latin America
-* North America
-* Oceania (*this includes Australia*)
-
-### Example region 1
+### Region1
 USA
 
-### Example region 2
-North America, Latin America, Caribbean
+### Region2
+Canda
+### Region 3
+India
 
-Below the country/region list you can have more text, if you want.  Use this to explain timezone, travel, or other restrictions based on your company's location.
-
-### Example region 3
-Worldwide
+### Region 4
+UK
 
 ## Company technologies
 
-Insert some of the technologies used in your company here.
+Artificial Intelligence, Machine Learning, Natural Language Processing
 
 ## Office locations
 
-Insert your physical office locations here, if you have any.
+Dallas, USA
+4100, Spring Valley Road,
+Suite 270, Farmers Branch,
+TX. 75244.
+
+Waterloo, Canada
+Unit 4, 180, Northfield Drive West, Waterloo, ON, N2L0C7.
+
+London, UK
+10 John Street, London, WC1N 2EB.
+
+Hyderabad, India
+802/803, MJR Magnifique,
+Raidurg, Hyderabad 500008.
 
 ## How to apply
-
-Insert a specific webpage, email, or instructions to apply.
+Apply on https://www.zemosolabs.com/careers-page
