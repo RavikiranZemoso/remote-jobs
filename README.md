@@ -658,4 +658,6 @@ Name | Website | Region
 [Zignaly.com](/company-profiles/zignaly.md) | https://zignaly.io/ | Worldwide
 [Zip.co](/company-profiles/zip-co.md) | https://zip.co/us/ | USA, Canada
 [Zup](/company-profiles/zup.md) | https://zup.com.br/ | Brazil
-[Zemoso Technologies](/company-profiles/zemoso.md) | https://www.zemosolabs.com/ | USA, Canada, UK
+[Zemoso Technologies](/company-profiles/zemoso.md) | https://www.zemosolabs.com/ | USA, Canada, UK, India
+
+
